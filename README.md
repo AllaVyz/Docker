@@ -1,0 +1,1 @@
+![снимок экрана](C:\Users\Администратор\Downloads\docker post.png)
